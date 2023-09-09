@@ -10,6 +10,8 @@
 ! We recommend you to use uBlock Origin with this list added to it rather than other adblock products.
 !
 ||steacmcoumunity.com^
+||lichess.org^
+||chess.com^
 ||my-giftes.ru^
 ||source-2beta.com^
 ||steamconmunitu.com^
